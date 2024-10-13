@@ -1,2 +1,0 @@
-# KirbyGame-TS
- KirbyPlayformer
