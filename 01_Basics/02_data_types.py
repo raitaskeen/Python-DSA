@@ -181,5 +181,5 @@ print(type(colors_str))  # Output: <class 'str'>
 # None: Represents the absence of a value.
 # By understanding these data types, you'll be able to 
 # choose the right type for your variables and use them
-#  effectively in your Python programs. Keep practicing,
-#  and you'll get even better at it!
+# effectively in your Python programs. Keep practicing,
+# and you'll get even better at it!
