@@ -29,17 +29,30 @@ print("Is student:", is_student)
 # Rectangle Area and Perimeter Calculator
 
 # Ask the user for the length of the rectangle
-length = float(input("Enter the length of the rectangle: "))
+#length = float(input("Enter the length of the rectangle: "))
 
 # Ask the user for the width of the rectangle
-width = float(input("Enter the width of the rectangle: "))
+#width = float(input("Enter the width of the rectangle: "))
 
 # Calculate the area of the rectangle
-area = length * width
+#area = length * width
 
 # Calculate the perimeter of the rectangle
-perimeter = 2 * (length + width)
+#perimeter = 2 * (length + width)
 
 # Print the results
-print("The area of the rectangle is:", area)
-print("The perimeter of the rectangle is:", perimeter)
+#print("The area of the rectangle is:", area)
+#print("The perimeter of the rectangle is:", perimeter)
+
+x, y, z = 1, 2, 3
+print(x, y, z)
+
+# Assigning the same value to multiple variables
+a = b = c = 10
+print(a, b, c)
+
+age = 10
+print("Age:", age)
+
+age = 15  # Changing the value of 'age'
+print("New Age:", age)
