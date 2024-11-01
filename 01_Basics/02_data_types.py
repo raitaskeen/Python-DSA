@@ -166,3 +166,20 @@ print(type(colors))  # Output: <class 'tuple'>
 colors = ('red', 'green', 'blue')
 colors_str = ', '.join(colors)
 print(type(colors_str))  # Output: <class 'str'>
+
+# Summary
+# Integer: Whole numbers, positive or negative, without a decimal point.
+# Float: Numbers with a decimal point.
+# Complex: Numbers with a real and an imaginary part.
+# String: Sequences of characters enclosed in quotes.
+# List: Ordered, mutable collections of items.
+# Tuple: Ordered, immutable collections of items.
+# Dictionary: Collections of key-value pairs.
+# Set: Unordered collections of unique items.
+# Frozen Set: Immutable sets.
+# Boolean: Represents True or False.
+# None: Represents the absence of a value.
+# By understanding these data types, you'll be able to 
+# choose the right type for your variables and use them
+#  effectively in your Python programs. Keep practicing,
+#  and you'll get even better at it!
